@@ -9,3 +9,5 @@ P
  contracts/historical-events.clar,1/8/18d51ff75ca44409dd4dc9ac3a2dcf9126d7d09d
 O
 tests/civilization-data.test.ts,d/7/d74f388bb5aaa1d41faa34154429924d608fa809
+O
+tests/historical-events.test.ts,b/0/b0bf236e0077205a2af269072d16de53f20e4e90
